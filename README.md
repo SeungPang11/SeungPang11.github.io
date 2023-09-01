@@ -1,4 +1,4 @@
-# Seung Portfolio
+# Projects in Data Science/Analytics and Machine Learning
 
 ### Projects
 Project 1 <br>
@@ -8,7 +8,4 @@ Project 3 <br>
 ### Education
 Education <br>
 
-### Work Experience
-Work 1 <br>
-Work 2 <br>
-Work 3 <br>
+
