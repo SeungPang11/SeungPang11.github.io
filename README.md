@@ -1,14 +1,14 @@
 # Seung Portfolio
 
 ### Projects
-Project 1
-Project 2
-Project 3
+Project 1 <br>
+Project 2 <br>
+Project 3 <br>
 
 ### Education
-Education
+Education <br>
 
 ### Work Experience
-Work 1
-Work 2
-Work 3
+Work 1 <br>
+Work 2 <br>
+Work 3 <br>
