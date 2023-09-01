@@ -2,5 +2,5 @@ title: Seung Pang
 logo: headshot.png 
 description: text below image
 show_downloads: true
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dirt"
+theme: jekyll-theme-minimal
+
