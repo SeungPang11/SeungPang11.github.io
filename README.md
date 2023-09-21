@@ -23,8 +23,8 @@ to categorize Tweets, achieving an accuracy score of 70%
 
 ---
 ### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) <br>
-Developed strategies to improve predictive modeling in Fake News Detection by 30% utilizing Exploratory         
-Data Analysis (EDA) to visualize imbalance dataset patterns then clean, manipulate, process text, 
+Developed strategies to improve predictive modeling in Fake News Detection by 30% utilizing Exploratory Data Analysis (EDA) <br> 
+to visualize imbalance dataset patterns then clean, manipulate, process text, 
 and handle imbalance data, resulting in an improved F1 score 
 <br><br>
 • 	**Tools**: Python, Javascript, CSS, React, Node, Flask <br>
