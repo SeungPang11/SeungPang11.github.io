@@ -15,6 +15,6 @@ Project 3 <br>
 
 ---
 ### Skills
-Education <br>
+Text Here <br>
 
 
