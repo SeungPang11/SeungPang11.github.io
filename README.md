@@ -17,6 +17,7 @@ and implementing a classification model to categorize Tweets, achieving an accur
 <br><br>
 • 	**Tools**: SQL, PySpark, MongoDB <br>
 • 	**Techniques**: ETL, Data Collection/ Cleaning, NLP, Text Pre-processing, Classification Model <br> 
+<img width="400" alt="Screen Shot 2023-09-21 at 3 03 48 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/73365c11-3a5a-40b3-874f-0f3e360e97ad"><br> 
 <img width="400" alt="Screen Shot 2023-09-21 at 3 00 09 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/4104c255-5836-4994-9cee-b7666123a3bf">
 <br>
 
