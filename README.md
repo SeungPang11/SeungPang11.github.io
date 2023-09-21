@@ -42,8 +42,8 @@ Data analysis on multivariable data and visualization of strongly correlated fac
 
 ---
 ### Skills
-•	**Languages**: Python, Spark, SQL, Scala, R, HTML, CSS, C++, JavaScript, PHP, Linux Shell<br>
-•	**Data/ Other Tools**: Tableau, MongoDB, NoSQL, Jupyter Notebook, AWS, Excel, Word, PowerPoint<br>
+•	**Languages**: Python, Spark, SQL, Scala, R, HTML, C++, JavaScript, Linux Shell<br>
+•	**Data/ Other Tools**: Tableau, MongoDB, NoSQL, Jupyter Notebook, AWS, Excel<br>
 • **Courses**: Big Data, Mining Massive Datasets, Machine Learning, Principle of Database Systems, Information Visualization, Design & Analysis of Algorithms<br>
 
 
