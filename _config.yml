@@ -1,4 +1,4 @@
-title: <p align="center"> Seung Pang </p>
+title: Seung Pang 
 logo: "headshot.png?raw=true" 
 description: 
   <p align="center">
@@ -11,5 +11,3 @@ description:
   </p>
   
 theme: jekyll-theme-minimal
-colors:
-  crimson: '#900C3F'
