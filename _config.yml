@@ -3,10 +3,6 @@ logo: headshot.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Master's in Computer Science from New York University. 
-  <br><br>
-  Courses: Big Data, Mining Massive Datasets, Machine Learning, <br>
-  Principle of Databases Systems, Information Visualization, <br>
-  Design & Analysis of Algorithms
   <br><br> 
 
 theme: jekyll-theme-minimal
