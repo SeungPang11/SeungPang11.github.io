@@ -33,7 +33,7 @@ manipulate, process text, and handle imbalance data to improve F1 score
 
 ---
 ### Skills
-• Courses: Big Data, Mining Massive Datasets, Machine Learning, Principle of Database Systems, Information Visualization, Design & Analysis of Algorithms
+• **Courses**: Big Data, Mining Massive Datasets, Machine Learning, Principle of Database Systems, Information Visualization, Design & Analysis of Algorithms
 Text Here <br>
 
 
