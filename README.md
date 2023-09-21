@@ -42,6 +42,16 @@ Data analysis on multivariable data and visualization of strongly correlated fac
 • 	**Techniques**: EDA, Data Cleaning/ Manipulation, Statistical Analysis, Classification, Linear Regression <br> 
 <img width="500" alt="Screen Shot 2023-09-21 at 6 33 19 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/15f1abd0-1fd0-4e14-9bd3-02f7a36a9c74">
 
+---
+### [Question-Answering System](https://github.com/SeungPang11/Diabetes-Progression-Prediction) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Diabetes-Progression-Prediction/)<br>
+Designed an Entity Relation Diagram and full-stack development of a question-answering forum allowing 
+users to interact and view engineering-related topics by category and search results ranked by relevancy 
+<br><br>
+• 	**Tools**: SQL, PHP, HTML <br>
+• 	**Techniques**: Relational Database Design, Web App Development <br> 
+<img width="500" alt="Question-Answer" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/456923ba-168f-44d1-b7fb-83ab505f6e53">
+
 
 ---
 ### Skills
