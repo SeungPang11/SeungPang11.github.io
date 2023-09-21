@@ -14,7 +14,7 @@ Project 2 <br>
 Project 3 <br>
 
 ---
-### Education
+### Skills
 Education <br>
 
 
