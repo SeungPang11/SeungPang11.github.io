@@ -33,8 +33,7 @@ manipulate, process text, and handle imbalance data to improve F1 score
 
 ---
 ### [Diabetes Progression Analysis and Prediction](https://github.com/SeungPang11/Diabetes-Progression-Prediction) <br>
-Performed data analysis on multivariable data and visualized strongly correlated factors (pregnancy,
-glucose, BMI, insulin, blood pressure) using visualization methods such as heat maps and scatter plots. Improved a diabetes predictive model accuracy by 10% by utilizing classification models 
+Data analysis on multivariable data and visualization of strongly correlated factors (pregnancy, glucose, BMI, insulin, blood pressure) using visualization methods (ie. heat maps and scatter plots). Improved a diabetes predictive model accuracy by 10% by utilizing classification models 
 <br><br>
 • 	**Tools**: Python, Numpy, Pandas, Scikit-Learn <br>
 • 	**Techniques**: EDA, Data Cleaning/ Manipulation, Statistical Analysis, Classification, Linear Regression <br> 
