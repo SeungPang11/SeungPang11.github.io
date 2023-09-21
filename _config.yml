@@ -1,7 +1,6 @@
 title: <p align="center"> Seung Pang </p>
 logo: "headshot.png?raw=true" 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
+description: 
   <p align="center">
   <a href="https://www.linkedin.com/in/seung-p-094195105/">LinkedIn</a> |
   <a href="https://github.com/SeungPang11">GitHub</a>
@@ -9,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p align="justify">
   Master's in Computer Science from New York University. 
   </p>
-  <br> 
+  
 theme: jekyll-theme-minimal
 colors:
   crimson: '#900C3F'
