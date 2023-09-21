@@ -11,9 +11,9 @@ finance service based on user input<br><br>
 
 ---
 ### [Twitter Categorizer](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/) <br>
-Provided support for the data engineering/ software development project in a cross-functional team by 
-collecting/cleaning data, loading data to MongoDB, performing text-preprocessing with PySpark/ SQL, 
-and implementing a classification model to categorize Tweets, achieving an accuracy score of 70%
+Provided support for Data Engineering/ Software Development project in a cross-functional team by 
+collecting/cleaning data, loading data to MongoDB, text-preprocessing, and implementing a <br>
+classification model to categorize Tweets, achieving an accuracy score of 70%
 <br><br>
 • 	**Tools**: SQL, PySpark, MongoDB <br>
 • 	**Techniques**: ETL, Data Collection/ Cleaning, NLP, Text Pre-processing, Classification Model <br> 
