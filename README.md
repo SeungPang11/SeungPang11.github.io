@@ -22,7 +22,15 @@ to categorize Tweets, achieving an accuracy score of 70%
 <br>
 
 ---
-Project 3 <br>
+### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) <br>
+Developed strategies to improve predictive modeling in Fake News Detection by 30% utilizing Exploratory         
+Data Analysis (EDA) to visualize imbalance dataset patterns then clean, manipulate, process text, 
+and handle imbalance data, resulting in an improved F1 score 
+<br><br>
+• 	**Tools**: Python, Javascript, CSS, React, Node, Flask <br>
+• 	**Techniques**: Naive Bayes, Logistics Regression, SVM, XGBoost, TF-IDF, SMOTE <br> 
+<img width="400" alt="Screen Shot 2023-09-21 at 3 18 45 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/7a872686-4a42-409e-8d46-9d195d6a1c8f">
+<br>
 
 ---
 ### Skills
