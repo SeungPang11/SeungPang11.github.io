@@ -11,7 +11,8 @@ finance service based on user input<br><br>
 <img width="400" alt="CFPB Tableau Dashboard" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/03396300-78ed-41fc-a1c6-2a9bfc739103">
 
 ---
-### [Twitter Categorizer](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/) <br>
+### [Twitter Categorizer](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/)<br>
 Provided support for Data Engineering/ Software Development project in a cross-functional team by 
 collecting/cleaning data, loading data to MongoDB, text-preprocessing, and implementing a classification model <br>
 to categorize Tweets, achieving an accuracy score of 70%
@@ -23,7 +24,8 @@ to categorize Tweets, achieving an accuracy score of 70%
 <br>
 
 ---
-### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) <br>
+### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/)<br>
 Improve predictive modeling in Fake News Detection by 30% utilizing Exploratory Data Analysis (EDA) to visualize data patterns then clean, <br>
 manipulate, process text, and handle imbalance data to improve F1 score 
 <br><br>
@@ -33,7 +35,8 @@ manipulate, process text, and handle imbalance data to improve F1 score
 <br>
 
 ---
-### [Diabetes Progression Analysis and Prediction](https://github.com/SeungPang11/Diabetes-Progression-Prediction) <br>
+### [Diabetes Progression Analysis and Prediction](https://github.com/SeungPang11/Diabetes-Progression-Prediction) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Diabetes-Progression-Prediction/)<br>
 Data analysis on multivariable data and visualization of strongly correlated factors (pregnancy, glucose, BMI, insulin, blood pressure) using visualization methods (ie. heat maps and scatter plots). Improved a diabetes predictive model accuracy by 10% by utilizing classification models 
 <br><br>
 • 	**Tools**: Python, Numpy, Pandas, Scikit-Learn <br>
