@@ -1,4 +1,4 @@
-# Projects in Data Science/Analytics, Machine Learning, and Big Data
+# Projects in Data Science, Machine Learning, and Big Data
 
 ### [US Consumer Finance Data Analysis and Prediction](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/) <br>
 Data Analysis/Visualization based on region, company, time series, and product and a Predictive Model (Logistic Regression) that predicts <br>
