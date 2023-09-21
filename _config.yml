@@ -3,8 +3,7 @@ logo: headshot.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Master's in Computer Science from New York University. 
-  <br><br> 
-
+  <br> 
 theme: jekyll-theme-minimal
 colors:
   crimson: '#900C3F'
