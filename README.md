@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/seung-p-094195105/">View my LinkedIn Profile</a>
 
 ---
-### [US Consumer Finance Data Analysis and Prediction](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/) <br>
+### [US Consumer Finance Data Analysis and Prediction](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/)<br>
 Data Analysis/Visualization based on region, company, time series, and product and a Predictive Model (Logistic Regression) that predicts <br>
 finance service based on user input<br><br>
 • 	**Tools**: Python, Excel, Tableau <br>
