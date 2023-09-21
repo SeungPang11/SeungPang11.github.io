@@ -1,6 +1,18 @@
 title: Seung Pang
 logo: headshot.png 
-description: text below image
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Master's in Computer Science from New York University. <br>
+  2 years of experience in Data Science/ Analytics, Machine Learning, <br> 
+  and Data Engineering through projects, student research,  <br> 
+  teaching assistant, and work experiences.
+  <br><br>
+  Courses: Big Data, Mining Massive Datasets, Machine Learning, <br>
+  Principle of Databases Systems, Information Visualization, <br>
+  Design & Analysis of Algorithms
+  <br><br>
+  <a href="https://www.linkedin.com/in/seung-p-094195105/">View my LinkedIn Profile</a> 
 show_downloads: true
 theme: jekyll-theme-minimal
-
+colors:
+  crimson: '#900C3F'
