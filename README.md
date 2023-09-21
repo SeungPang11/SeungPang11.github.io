@@ -32,6 +32,16 @@ manipulate, process text, and handle imbalance data to improve F1 score
 <br>
 
 ---
+### [Diabetes Progression Analysis and Prediction](https://github.com/SeungPang11/Diabetes-Progression-Prediction) <br>
+Performed data analysis on multivariable data and visualized strongly correlated factors (pregnancy,
+glucose, BMI, insulin, blood pressure) using visualization methods such as heat maps and scatter plots. Improved a diabetes predictive model accuracy by 10% by utilizing classification models 
+<br><br>
+• 	**Tools**: Python, Numpy, Pandas, Scikit-Learn <br>
+• 	**Techniques**: EDA, Data Cleaning/ Manipulation, Statistical Analysis, Classification, Linear Regression <br> 
+<img width="500" alt="Screen Shot 2023-09-21 at 6 33 19 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/15f1abd0-1fd0-4e14-9bd3-02f7a36a9c74">
+
+
+---
 ### Skills
 •	**Languages**: Python, Spark, SQL, Scala, R, HTML, CSS, C++, JavaScript, PHP, Linux Shell<br>
 •	**Data/ Other Tools**: Tableau, MongoDB, NoSQL, Jupyter Notebook, AWS, Excel, Word, PowerPoint<br>
