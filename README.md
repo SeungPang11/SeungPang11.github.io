@@ -10,7 +10,15 @@ finance service based on user input<br><br>
 <img width="400" alt="CFPB Tableau Dashboard" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/03396300-78ed-41fc-a1c6-2a9bfc739103">
 
 ---
-Project 2 <br>
+### [Twitter Categorizer](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/) <br>
+Provided support for the data engineering/ software development project in a cross-functional team by 
+collecting/cleaning data, loading data to MongoDB, performing text-preprocessing with PySpark/ SQL, 
+and implementing a classification model to categorize Tweets, achieving an accuracy score of 70%
+<br><br>
+• 	**Tools**: SQL, PySpark, MongoDB <br>
+• 	**Techniques**: ETL, Data Collection/ Cleaning, NLP, Text Pre-processing, Classification Model <br> 
+<img width="400" alt="Screen Shot 2023-09-21 at 3 00 09 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/4104c255-5836-4994-9cee-b7666123a3bf">
+<br>
 
 ---
 Project 3 <br>
