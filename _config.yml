@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Design & Analysis of Algorithms
   <br><br>
   <a href="https://www.linkedin.com/in/seung-p-094195105/">View my LinkedIn Profile</a> 
-#show_downloads: true
+
 theme: jekyll-theme-minimal
 colors:
   crimson: '#900C3F'
