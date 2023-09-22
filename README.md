@@ -1,5 +1,5 @@
 # Projects in Data Science, Machine Learning, and Big Data <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](www.linkedin.com/in/seung-p-094195105/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/seung-p-094195105/)
 [![GitHub](https://img.shields.io/badge/GitHub-orange?logo=GitHub)](https://github.com/SeungPang11)
 [![Resume](https://img.shields.io/badge/Resume-purple?)](https://github.com/SeungPang11/SeungPang11.github.io/files/12695983/Resume.Pang.pdf)
 
