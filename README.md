@@ -1,6 +1,6 @@
 # Projects in Data Science, Machine Learning, and Big Data <br>
-<a href="https://www.linkedin.com/in/seung-p-094195105/">LinkedIn</a> |
-<a href="https://github.com/SeungPang11">GitHub</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/seung-p-094195105/)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](https://github.com/SeungPang11)
 
 ---
 ### [US Consumer Finance Data Analysis and Prediction](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/) 
