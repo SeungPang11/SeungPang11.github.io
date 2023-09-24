@@ -46,6 +46,16 @@ Data analysis on multivariable data and visualization of strongly correlated fac
 <img width="500" alt="Screen Shot 2023-09-21 at 6 33 19 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/15f1abd0-1fd0-4e14-9bd3-02f7a36a9c74">
 
 ---
+### [Medicare Drug Spending Analysis](https://github.com/SeungPang11/Medicare-Drug-Spending-Data-Analysis) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Medicare-Drug-Spending-Data-Analysis)<br>
+This project utilizes Data Analysis techniques to analyze data ranging from 2011 to 2015 and make Medicare drug spending data 
+more consumable for audiences of both technical and non-technical backgrounds.
+<br><br>
+• 	**Tools**: Python, Pyspark, SQL, Tableau <br>
+• 	**Techniques**: EDA, Data Cleaning/ Manipulation, Statistical Analysis, Visualization <br> 
+<img width="400" alt="Medicare" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/6a75fe6c-9d8f-477d-b739-6f6c54585b27"><br>
+
+---
 ### [Question-Answering System](https://github.com/SeungPang11/Diabetes-Progression-Prediction) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Diabetes-Progression-Prediction/)<br>
 Designed an Entity Relation Diagram and full-stack development of a question-answering forum allowing 
