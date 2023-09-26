@@ -17,7 +17,7 @@ finance service based on user input<br><br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/)<br>
 Provided support for Data Engineering/ Software Development project in a cross-functional team by 
 collecting/cleaning data, loading data to MongoDB, text-preprocessing, and implementing a classification model <br>
-to categorize Tweets, achieving an accuracy score of ≈ 68%
+to categorize Tweets, achieving an accuracy score of ≈ 70%
 <br><br>
 • 	**Tools**: SQL, PySpark, MongoDB <br>
 • 	**Techniques**: ETL, Data Collection/ Cleaning, NLP, Classification <br> 
