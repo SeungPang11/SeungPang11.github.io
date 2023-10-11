@@ -6,8 +6,8 @@
 ---
 ### [Customer Analysis and Clustering]() 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/)<br>
-Statistical Analysis of consumer data, in order to visualize the findings based on consumer demographics, behavior, media campaign response, and purchase, <br>
-and Clustering to visualize customer segments using important features. <br>
+Statistical Analysis of consumer data including consumer demographics, behavior, media campaign response, and purchase,
+and Clustering to visualize customer segments using relevant features. <br>
 
 • 	**Tools**: Python, Plotly, Matplotlib, Pandas, Seaborn <br>
 • 	**Techniques**: EDA, Descriptive and Inferential Statistics (T-test, Chi-squared test), Data Scaling, PCA Dimensionality Reduction, Elbow Method, and Silhouette Score <br> 
