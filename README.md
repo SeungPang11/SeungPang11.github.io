@@ -4,6 +4,16 @@
 [![Resume](https://img.shields.io/badge/Resume-purple?)](https://github.com/SeungPang11/SeungPang11.github.io/files/12695983/Resume.Pang.pdf)
 
 ---
+### [Customer Analysis and Clustering]() 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/)<br>
+Statistical Analysis of consumer data, in order to visualize the findings based on consumer demographics, behavior, media campaign response, and purchase, <br>
+and Clustering to visualize customer segments using important features. <br>
+
+• 	**Tools**: Python, Plotly, Matplotlib, Pandas, Seaborn <br>
+• 	**Techniques**: EDA, Descriptive and Inferential Statistics (T-test, Chi-squared test), Data Scaling, <br>  PCA Dimensionality Reduction, Elbow Method, and Silhouette Score <br> 
+<img width="400" alt="Screen Shot 2023-10-10 at 6 32 11 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/db6c0e26-e6fb-489e-be1c-1d96a9216f93">
+
+---
 ### [US Consumer Finance Data Analysis and Prediction](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/)<br>
 Data Analysis/Visualization based on region, company, time series, and product and a Predictive Model (Logistic Regression) that predicts <br>
