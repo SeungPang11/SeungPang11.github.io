@@ -5,7 +5,7 @@
 
 ---
 ### [Customer Analysis and Clustering]() 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/)<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/)<br>
 Statistical Analysis of consumer data including consumer demographics, behavior, media campaign response, and purchase,
 and Clustering to visualize customer segments using relevant features. <br>
 
