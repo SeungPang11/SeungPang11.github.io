@@ -36,6 +36,17 @@ to categorize Tweets, achieving an accuracy score of ≈ 70%
 <br>
 
 ---
+### [Question-Answering System](https://github.com/SeungPang11/Diabetes-Progression-Prediction) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Diabetes-Progression-Prediction/)<br>
+Designed an Entity Relation Diagram and full-stack development of a question-answering forum allowing 
+users to interact and view engineering-related topics by category and search results ranked by relevancy 
+<br><br>
+• 	**Tools**: SQL, PHP, HTML <br>
+• 	**Techniques**: Relational Database Design, REST APIs, Web App Development <br> 
+<img width="500" alt="Question-Answer" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/456923ba-168f-44d1-b7fb-83ab505f6e53">
+
+
+---
 ### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/)<br>
 Improve predictive modeling in Fake News Detection by 30% utilizing Exploratory Data Analysis (EDA) to visualize data patterns then clean, <br>
@@ -64,16 +75,6 @@ more consumable for audiences of both technical and non-technical backgrounds.
 • 	**Tools**: Python, Pyspark, SQL, Tableau <br>
 • 	**Techniques**: EDA, Data Cleaning/ Manipulation, Statistical Analysis, Visualization <br> 
 <img width="400" alt="Medicare" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/6a75fe6c-9d8f-477d-b739-6f6c54585b27"><br>
-
----
-### [Question-Answering System](https://github.com/SeungPang11/Diabetes-Progression-Prediction) 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Diabetes-Progression-Prediction/)<br>
-Designed an Entity Relation Diagram and full-stack development of a question-answering forum allowing 
-users to interact and view engineering-related topics by category and search results ranked by relevancy 
-<br><br>
-• 	**Tools**: SQL, PHP, HTML <br>
-• 	**Techniques**: Relational Database Design, Web App Development <br> 
-<img width="500" alt="Question-Answer" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/456923ba-168f-44d1-b7fb-83ab505f6e53">
 
 
 ---
