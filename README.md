@@ -7,10 +7,10 @@
 ### [Customer Analysis and Clustering]() 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/)<br>
 Statistical Analysis of consumer data including consumer demographics, behavior, media campaign response, and purchase,
-and Clustering to visualize customer segments using relevant features. <br>
+and clustering (unsupervised learning) to visualize customer segments. <br>
 
 • 	**Tools**: Python, Plotly, Matplotlib, Pandas, Seaborn <br>
-• 	**Techniques**: EDA, Descriptive and Inferential Statistics (T-test, Chi-squared test), Data Scaling, PCA Dimensionality Reduction, Elbow Method, and Silhouette Score <br> 
+• 	**Techniques**: EDA, Descriptive and Inferential Statistics (T-test, Chi-squared test), Data Scaling, PCA Dimensionality Reduction, K-Means Clustering, Elbow Method, and Silhouette Score <br> 
 <img width="400" alt="Screen Shot 2023-10-10 at 6 32 11 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/db6c0e26-e6fb-489e-be1c-1d96a9216f93">
 
 ---
