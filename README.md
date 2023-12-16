@@ -23,6 +23,16 @@ finance service based on user input<br><br>
 <img width="400" alt="CFPB Tableau Dashboard" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/03396300-78ed-41fc-a1c6-2a9bfc739103">
 
 ---
+
+### [Web Scrapping Amazon Data]() 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/)<br>
+Extracting 1000+ rows of unstructured book data including title, author, rating, review count,<br> 
+and genre from 10+ pages into a structured format <br>
+• 	**Tools**: Python, BeautifulSoup, Excel <br>
+• 	**Techniques**: Web Scrapping, Unstructured Data Extraction, Data Cleaning/ Transformation  <br> <br>
+<img width="486" alt="Screen Shot 2023-12-15 at 9 13 13 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/397fe7ce-16f0-4837-a76e-dfc73554ef81">
+
+---
 ### [Twitter Categorizer](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Twitter-Categorizer-Data-Engineering-ML/)<br>
 Provided support for Data Engineering/ Software Development project in a cross-functional team by 
