@@ -7,12 +7,12 @@
 ---
 ### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/)<br>
--Predictive model that captures fraudulent information considering Twitter activity, news content, and news sentiment <br>
+-Predictive model that captures fraudulent information based on <br> 
+Twitter activity, news content, and news sentiment <br>
 -Improved predictive model performance by 32% through feature engineering, text pre-processing, and handling imbalance data 
 <br><br>
 • 	**Tools**: Python, Javascript, CSS, React, Node, Flask <br>
-• 	**Techniques**: EDA, Feature Engineering, Naive Bayes, Logistics Regression, SVM, XGBoost, <br> 
-Sentiment Analysis, TF-IDF, SMOTE, Cross Validation <br> 
+• 	**Techniques**: EDA, Feature Engineering, Naive Bayes, Logistics Regression, SVM, XGBoost, Sentiment Analysis, TF-IDF, SMOTE, Cross Validation <br> 
 
 <img width="479" alt="Screen Shot 2024-01-03 at 9 00 07 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/1b8316d2-c528-4145-b255-e54eba94bb80">
 <br>
