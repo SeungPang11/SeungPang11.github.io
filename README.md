@@ -3,6 +3,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-orange?logo=GitHub)](https://github.com/SeungPang11)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/seung.pang/vizzes)
 
+
+---
+### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/)<br>
+-Predictive model that captures fraudulent information considering Twitter activity, news content, and news sentiment <br>
+-Improved predictive model performance by 32% through feature engineering, text pre-processing, and handling imbalance data 
+<br><br>
+• 	**Tools**: Python, Javascript, CSS, React, Node, Flask <br>
+• 	**Techniques**: EDA, Feature Engineering, Naive Bayes, Logistics Regression, SVM, XGBoost, <br> 
+Sentiment Analysis, TF-IDF, SMOTE, Cross Validation <br> 
+
+<img width="479" alt="Screen Shot 2024-01-03 at 9 00 07 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/1b8316d2-c528-4145-b255-e54eba94bb80">
+<br>
+
 ---
 ### [Customer Analysis and Clustering]() 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/)<br>
@@ -55,18 +69,6 @@ users to interact and view engineering-related topics by category and search res
 • 	**Tools**: SQL, PHP, HTML <br>
 • 	**Techniques**: Relational Database Design, REST APIs, Web App Development <br> 
 <img width="500" alt="Question-Answer" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/456923ba-168f-44d1-b7fb-83ab505f6e53">
-
-
----
-### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/)<br>
-Improve predictive modeling in Fake News Detection by 30% utilizing Exploratory Data Analysis (EDA) to visualize data patterns then clean, <br>
-manipulate, process text, and handle imbalance data to improve F1 score 
-<br><br>
-• 	**Tools**: Python, Javascript, CSS, React, Node, Flask <br>
-• 	**Techniques**: EDA, Naive Bayes, Logistics Regression, SVM, XGBoost, TF-IDF, SMOTE <br> 
-<img width="400" alt="Screen Shot 2023-09-21 at 3 18 45 PM" src="https://github.com/SeungPang11/SeungPang11.github.io/assets/67944800/7a872686-4a42-409e-8d46-9d195d6a1c8f">
-<br>
 
 ---
 ### [Diabetes Progression Analysis and Prediction](https://github.com/SeungPang11/Diabetes-Progression-Prediction) 
