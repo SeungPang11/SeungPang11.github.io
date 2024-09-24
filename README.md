@@ -1,4 +1,4 @@
-# Projects in Data Science/ Analytics, ML, and Big Data <br>
+# Projects in Data Science/ Analytics <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/seung-p-094195105/)
 [![GitHub](https://img.shields.io/badge/GitHub-orange?logo=GitHub)](https://github.com/SeungPang11)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/seung.pang/vizzes)
