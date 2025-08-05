@@ -13,7 +13,7 @@
 • 	**Tools**: Python, Plotly <br>
 • 	**Techniques**: Regression Models, Data Analysis, Feature Engineering, Feature Selection, Hyperparameter Tuning, Cross-Validation <br> 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/76ca329c-038f-45ee-9a0d-a05394e0b9ee">
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/974c4c8b-2ede-4d09-b509-4a4dfea98934" />
 <br>
 
 ---
