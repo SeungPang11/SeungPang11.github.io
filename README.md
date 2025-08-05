@@ -3,6 +3,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-orange?logo=GitHub)](https://github.com/SeungPang11)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/seung.pang/vizzes)
 
+---
+### [Airbnb Price Analysis and Prediction](https://github.com/SeungPang11/Airbnb-Price-Analysis-and-Prediction/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SeungPang11/Airbnb-Price-Analysis-and-Prediction)<br>
+-Regression modeling for Seattle Airbnb price prediction and Plotly exploratory data analysis <br>
+-Analyzed 1.4 mil listing activity data and relationships between the listing price and 40+ variables <br>
+<img width="296" height="277" alt="image" src="https://github.com/user-attachments/assets/ba496715-460a-4381-bc2b-620012e506b2" />
+<br>
+• 	**Tools**: Python, Plotly <br>
+• 	**Techniques**: Regression Models, Data Analysis, Feature Engineering, Feature Selection, Hyperparameter Tuning, Cross-Validation <br> 
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/76ca329c-038f-45ee-9a0d-a05394e0b9ee">
+<br>
 
 ---
 ### [Fake News Detection](https://github.com/SeungPang11/Fake-News-Detection-with-Maching-Learning/) 
